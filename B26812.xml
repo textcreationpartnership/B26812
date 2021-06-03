@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>March 21th, 1641. A continuation of the good newes from Ireland. Manifested by two severall letters sent from Mr. Metcalfe to Mr. Nowell Bassano of the Custome-house in London. The one dated at Dublin, March 14. The other at Tredarth, March 15. 1641. Being a true relation of the good and prosperous successe and proceedings of the English forces, under the command of Sir Symon Harcourt, Sir Charles Coote, Sir Richard Greenvill and others, against the bloody rebels in Ireland. From the last of February, to this present</title>
+            <author>Metcalfe, Mr.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26812</idno><idno type="EEBO-CITATION">99828047</idno>
+  <idno type="VID">206901</idno>
+  <idno type="EEBO-PROQUEST">2248499494</idno>
+  
+            <idno type="STC">Wing M1918</idno>
+            <idno type="PROQUEST">99828047</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828047e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26812)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206901)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1855:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>March 21th, 1641. A continuation of the good newes from Ireland. Manifested by two severall letters sent from Mr. Metcalfe to Mr. Nowell Bassano of the Custome-house in London. The one dated at Dublin, March 14. The other at Tredarth, March 15. 1641. Being a true relation of the good and prosperous successe and proceedings of the English forces, under the command of Sir Symon Harcourt, Sir Charles Coote, Sir Richard Greenvill and others, against the bloody rebels in Ireland. From the last of February, to this present</title>
+                  <author>Metcalfe, Mr.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206901:1"/>
+            <p>
+               <hi>March</hi> 21<seg rend="sup">th</seg>. 1641.</p>
+            <p>A Continuation of the good NEWES from IRELAND.</p>
+            <p>MANIFESTED By two severall Letters sent from Mr. <hi>Metcalfe</hi> to Mr. <hi>Nowell Bassano</hi> of the Custome-house in <hi>London.</hi>
+            </p>
+            <list>
+               <item>The one dated at <hi>Dublin, March</hi> 14. 1641.</item>
+               <item>The other at <hi>Tredarth, March</hi> 15. 1641.</item>
+            </list>
+            <p>BEING A true Relation of the good and Pros<g ref="char:EOLhyphen"/>perous successe and Proceedings of the <hi>English</hi> Forces, under the Command of Sir <hi>Symon Har<g ref="char:EOLhyphen"/>court,</hi> Sir <hi>Charles Coote,</hi> Sir <hi>Richard Green<g ref="char:EOLhyphen"/>vill</hi> and others, against the bloody Rebels in <hi>Ireland.</hi>
+            </p>
+            <p>From the last of <hi>February,</hi> to this present.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Thomas.</hi> 1641.</p>
+            <pb facs="tcp:206901:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:206901:2"/>
+            <head>
+               <hi>Dublin,</hi> 10. <hi>March,</hi> 1641.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His weeke wee had intelli<g ref="char:EOLhyphen"/>gence from <hi>Munster</hi> &amp; <hi>Con<g ref="char:EOLhyphen"/>nough,</hi> that the English doe behave themselves excee<g ref="char:EOLhyphen"/>ding well, &amp; that they have made the Lord <hi>Mountgar<g ref="char:EOLhyphen"/>ret</hi> to flye away, and the rest of the Rebels from e<g ref="char:EOLhyphen"/>very place where they came, The Lord President of <hi>Connough</hi> hath been re<g ref="char:EOLhyphen"/>lieved by the meanes of Sir <hi>Iames Dillon,</hi> who came to my Lord, and told him that he could not hold out, and he advised him to yeeld up the Ca<g ref="char:EOLhyphen"/>stle to him, and he would send him safe to <hi>Dublin,</hi> my Lord at the present tooke it very kindly, and said he would consider of it, as he did presently, and so sent to Sir <hi>Iames Dillon,</hi> and thanked him for his Councell, and wished him to bring in his provision that night▪ and he would leave his Castle to him, but wished him to be as good as his word to have him safely conducted to <hi>Dublin,</hi> so Sir <hi>James</hi> brought in all his provi<g ref="char:EOLhyphen"/>sion thinking that night to enjoy the Castle, but my Lord thanked him for his love, and wished him to be gone, else he would make him to goe, and so my Lord keepes the Castle yet in despight of them.</p>
+            <p>
+               <hi>Gallwyes</hi> Port is kept by Sir <hi>Francis Willoughby</hi> his Sonne, and holds out stoutly, and for <hi>Munster</hi> the Lord President playes his part there amongst the Rogues.</p>
+            <pb facs="tcp:206901:3"/>
+            <p> We have 10. myles compassed cleere about the Towne, save <hi>VVicklow</hi> side, 6. Troopes came from <hi>Andauge,</hi> 50. myles, and were ressisted by none.</p>
+            <p>
+               <hi>VVicklow</hi> is relieved this Weeke, Captaine <hi>Bartlet</hi> is gone from thence to the Fort of <hi>Duncannon,</hi> there is 5. ships of ours come to <hi>Kinsaile,</hi> and more passed by this Harbour for <hi>Baregvargus,</hi> one laden with Ammunition, and the other to keepe the Coast cleere.</p>
+            <p>Vpon Saturday last Sir <hi>Henry Titchburne</hi> sallyed out of <hi>Drogheda</hi> and killed at least 400 Rebels, tooke 40. prisoners and one of their chiefe Captaines <hi>Arteoge Marmaughan,</hi> who hath the Lady <hi>Blany</hi> prisoner, Sir <hi>Philomy Oneale</hi> was there but run away, and Sir <hi>Henry</hi> followed him 7. myles, but could not overtake him, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he siege from thence is all gone, Sir <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> sets Garrisons in some Townes thereabouts, and proclai<g ref="char:EOLhyphen"/>med that if any <hi>Irish</hi> would bring in their Corne or any thing else they should have money for it, if not, they should have nothing, and he would destroy them all, so upon that they brought in their corne with other Victuals, and there was a pretty Market, Wheate at 16. s. a Barrell; This Newes was brought by Captain <hi>Byron,</hi> Sir <hi>John Buriasie,</hi> and Capt. <hi>Roper,</hi> who came from thence this morning, 4000 of our Army went with 9. Field-peeces, the Lord of <hi>Ormond,</hi> Generall Colonell <hi>Lambert,</hi> Colonell <hi>Harcourt,</hi> and Colonell <hi>Monke</hi> the first night they quartered at <hi>Fields</hi> Towne and <hi>Dunslougham</hi> Ca<g ref="char:EOLhyphen"/>stle. where they found not any Rebels, being all fled before they came.</p>
+            <p>The next night they went to <hi>Ratroe</hi> in the County of <hi>Meath,</hi> where were of the Rebels about 8000 in a full body, our Army being 3. myles from them thought to have a bar<g ref="char:EOLhyphen"/>rell with them, being in a champion ground, and so marched towards them, but they fled without any shot at all, in their flight our Army tooke 3. of their Commanders, Lievtenant Col. <hi>Iohn Read Scotchman,</hi> one of their best Commanders, and one <hi>Barefoote,</hi> these two are brought to the Castle that night, the other my Lord Generall keepes with him still, his name is <hi>Barnew<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> of <hi>K<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>brew.</hi>
+            </p>
+            <pb facs="tcp:206901:3"/>
+            <p> This night our Army is at our Lord <hi>Dunsan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> and <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gaul▪</hi> to morrow I hope they will be at the Lord <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tterfields,</hi> and so from thence they will turne to <hi>Trim,</hi> we doe not looke for their comming home these 6. dayes.</p>
+            <p>All the Lords of the Pale are now fled to the County of <hi>Cavan.</hi> This day the Lord <hi>Dunsan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> sent his man to the Lords Justices to desire to come in so the Lords left the bu<g ref="char:EOLhyphen"/>sinesse to Sir <hi>Charles Coote.</hi>
+            </p>
+            <p>The Fort of <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>va<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> is relieved by <hi>Bristoll</hi> ships with Ammunition and Men they say for a yeare.</p>
+            <p>The Rebels in the County of <hi>Downe</hi> have assaulted downe <hi>Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tricke,</hi> where they received a great overthrow by Sir <hi>James Monuccondy,</hi> and so keepes the Towne still, and hold<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out stoutly.</p>
+            <p>The Report is 3000 <hi>Scots</hi> is landed in the North<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="text">
+            <head>
+               <hi>Tredarth,</hi> 10. <hi>March,</hi> 1641.</head>
+            <p>BEfore now, J writ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nothing but of want, but now (God be thanked) J can write not any thing, but of plenty, good successe, and happy victory over our Enemies, the next day after our Shipping went away we sent out two Troopes of Horse and 3. Companies of Foote to a Village close to the way to <hi>Dublin,</hi> called great <hi>Buberish,</hi> to fetch some Corne, there was some Rebels in it who imme<g ref="char:EOLhyphen"/>diately fled, so our men brought away what was there, and set it on fire, whereupon there appeared 3. Colours at <hi>Smith<g ref="char:EOLhyphen"/>ton</hi> making towards us, whereupon my Colonell commanded to advance, and in the same place where the 60<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. left them<g ref="char:EOLhyphen"/>selues, we met them, they stood a little, and then betooke them to their heeles, our men followed the chase, tooke two Colours, one Ensigne▪ killed two Livetenants and some hun<g ref="char:EOLhyphen"/>dreds of the Rebels, we entered the Towne, brought what we could away, and layd it in the ashes, these were Colonell <hi>Prestons</hi> Regiment, who scaped narrowly himselfe by the
+<pb facs="tcp:206901:4"/> goodnesse of his Horse, and in our comming home we burnt two small Villages, this was that dayes worke.</p>
+            <p>27. <hi>Feb.</hi> Wee went forth 7. Companies of Foote, and two Troopes of Horse to take a house called <hi>Stammin,</hi> which had a brave haggerd of Corne, five Companies of Foote in it, but the day proved so ill and wet, that we could not keepe our matches lighted, made on an attempt but did not carry it for want of a peice of Ordnance to Batter the gate.</p>
+            <p>1. <hi>Mar.</hi> Wee went out againe to a Village behind <hi>Stammin</hi> where we got good forrage for our horse, and when we had done we set it on fire, then we went to a Castle neere <hi>Stam<g ref="char:EOLhyphen"/>min,</hi> where we found 12. Rebels keeping some corne, wee forc't the gate, entered it and kild them, the cry of this was heard in the house of <hi>Stammin</hi> where the 5. companies were, whereupon they conceiving our body of Foote and Horse, to be still pillaging in the Village distant from them a Mile, and that these were but a small partie of our men come thi<g ref="char:EOLhyphen"/>ther to pillage, sallyed out, two companies, and made great haste towaads the Castle, wee perceiving them comming, by our Scouts comming in, stood in Battaile ray, in a Valley close by the Castle where we were not seene by them till they were within musket shot of us, but when they saw they were mist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aken in our numbers, immediately they fled towards the house againe, but we prevented them and came betwixt them and home, as well as the ground would give us leave, and tooke one of their Captaines <hi>Neile-Oneale</hi> nere kinsman to <hi>Sr. Philomy Oneale,</hi> kild a Livetenant and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome 60. of the Rebels, the rest got away, some into the house, and some o<g ref="char:EOLhyphen"/>ther wayes; this done we returned home, and burnt some strag<g ref="char:EOLhyphen"/>ling houses.</p>
+            <p>4. <hi>Mar.</hi> We went out 5. companies to <hi>Mornington,</hi> by the Sea▪side, where there were but few left, and burnt every house in it, this was <hi>Philomy-Oneales</hi> quarter the weeke before, and finding none to oppose us, we returned home.</p>
+            <p>5. <hi>Mar.</hi> There went out the Lord <hi>Moore</hi> with two Troopes of horse, and 7. companies of Foote to <hi>Tolle Halla<g ref="char:EOLhyphen"/>glin</hi> a place on the North-west side of this towne where
+<pb facs="tcp:206901:4"/> Colonell <hi>Mac Byron,</hi> and <hi>Mac Mahome</hi> had taken up their new Quarter, having left <hi>Dublin</hi> side the weeke before; this place is distant from this Towne 3. myles, he could not lye nearer, for we had formerly burnt on that side of the water all the Villages within that distance, we were upon their quarter by 7. of the clocke in the morning, by that time we came neere them, they had drawne up into a body some 400. with<g ref="char:EOLhyphen"/>in an old Pinfold, which they had prepared with good sad worke, brest high, from which their Musketiers playd upon us, but we made still forward towards them, they seeing us come on so resolutely, left the worke, and betooke them to running; All this while they stood wide on the left hand of them. some two Musket shot distant upon the top of Hill, a body of some 800 more of them to see how the rest sped; which they seeing marched away; we orderly followed the chase of the rest, and tooke Prisoners <hi>Art-Oge-Macmahonne,</hi> the pretended Lord of <hi>Moneghane</hi> and one other; <hi>Macma<g ref="char:EOLhyphen"/>hoome</hi> killed 5. Captaines; of which was one old Capt. <hi>Prius</hi> that was a Rebell in the last Rebellion, many orher Gentle<g ref="char:EOLhyphen"/>men of quality not yet knowne of which we brought in 3. Heads; and there was 200 killed at least, this was as great a blow as ever we gave them, when we had done we burnt their quarters, the foote this day was commanded by Liev<g ref="char:EOLhyphen"/>tenant Colonell <hi>Byron.</hi>
+            </p>
+            <p>The night after this, there came intelligence that the house of <hi>Stanmin</hi> was left empty, and then <hi>Bewly</hi> the Towne on the Sea-side that plagued our shipping as they came in, the Rebels had also left, upon our Newes of the defeate, where<g ref="char:EOLhyphen"/>upon we sent 200 Musketiers to <hi>Bewly</hi> 2. houres before day, who found no ressistance but entred the house and Town, and we keep a company in it, here we found good store of corn, likewise there was sent an Ensigne and 40. Musketiers to the house of <hi>Stammin,</hi> where they had no ressistance but entred it. There is also a haggard of corne; Thus it hath pleased
+<pb facs="tcp:206901:5"/> God to banish our Enemies, and to give us a great deale of liberty▪ and store of all provision, after a long and tedious blocking up, so that now we doubt not but that a small num<g ref="char:EOLhyphen"/>ber of men▪ may march from <hi>Dublin</hi> hither, for those that had the greatest number of men, were <hi>Philomy Oneale, Phil<g ref="char:EOLhyphen"/>lip O-Reyley,</hi> Col. <hi>Mack-Brian-Macke-Mahoome,</hi> and Colonel <hi>Plunker,</hi> who have all left us and have marcht North<g ref="char:EOLhyphen"/>wards, with the best pillage of the Country, so that now what forces there is betwixt <hi>G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmanston</hi> and <hi>Dublin,</hi> for there is none of this side of it, all our wants now are Clothes, shooes, and Stockins for our men, and some money would not be unwelcomed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206901:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
